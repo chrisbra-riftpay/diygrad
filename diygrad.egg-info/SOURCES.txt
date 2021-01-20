@@ -1,0 +1,9 @@
+README.md
+setup.py
+diygrad/__init__.py
+diygrad/tensor.py
+diygrad.egg-info/PKG-INFO
+diygrad.egg-info/SOURCES.txt
+diygrad.egg-info/dependency_links.txt
+diygrad.egg-info/requires.txt
+diygrad.egg-info/top_level.txt

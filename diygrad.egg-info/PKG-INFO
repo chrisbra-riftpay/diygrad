@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: diygrad
+Version: 1.0.0
+Summary: UNKNOWN
+Home-page: https://github.com/chr1sbradley/diygrad
+Author: Christopher Bradley
+Author-email: declarationcb@gmail.com
+License: UNKNOWN
+Description: A deep neural network built from scratch based off [karpathy/micrograd](https://github.com/karpathy/micrograd)
+Keywords: machine,learning,machinelearning,ai,micrograd,torch
+Platform: UNKNOWN
+Requires-Python: >=3.8.5
+Description-Content-Type: text/markdown
+Provides-Extra: gpu
+Provides-Extra: testing
